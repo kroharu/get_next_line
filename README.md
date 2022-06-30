@@ -1,3 +1,5 @@
+_This is a **21 School/Ecole 42** Project_
+
 # get_next_line (Complexity 70 hours)
 <img align="right" src="https://badge42.vercel.app/api/v2/cl3enoo9k004009muhk5a94tj/project/2398395" alt="ladrian's 42 get_next_line Score" />
 
